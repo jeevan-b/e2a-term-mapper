@@ -1,0 +1,12 @@
+services:
+  api:
+    build: .
+    environment:
+      NODE_ENV: development
+      PORT: 3000
+      JWT_SECRET: development-secret-change-me
+      DATA_FILE_PATH: data/terms.json
+    ports:
+      - "3000:3000"
+    volumes:
+      - ./data:/app/data

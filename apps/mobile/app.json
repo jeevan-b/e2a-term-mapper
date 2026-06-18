@@ -1,0 +1,1 @@
+{ "expo": { "name": "Term Mapper", "slug": "term-mapper", "scheme": "termmapper", "web": { "bundler": "metro" }, "plugins": ["expo-router"] } }

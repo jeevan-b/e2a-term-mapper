@@ -149,11 +149,11 @@
 
 - [x] **13.1** `[devops]` Write a `Dockerfile` for `apps/api` (multi-stage: build → production image)
 - [x] **13.2** `[devops]` Add a `docker-compose.yml` entry for local end-to-end testing (API + static file server)
-- [ ] **13.3** `[devops]` Create a GitHub Actions CI workflow: lint → type-check → test on every pull request
-- [ ] **13.4** `[devops]` Create a GitHub Actions CD workflow: build Docker image → push to ECR → deploy to App Runner on merge to `main`
-- [ ] **13.5** `[devops]` Provision AWS resources for Phase 1: S3 bucket (JSON file + web assets), CloudFront distribution, App Runner service, ECR repository, Secrets Manager entries
-- [ ] **13.6** `[devops]` Build the Expo web app (`expo export --platform web`) and deploy static assets to S3/CloudFront
-- [ ] **13.7** `[devops]` Configure Route 53 + ACM for the placeholder domain (`termmapper.example.com`)
+- [x] **13.3** `[devops]` Create a GitHub Actions CI workflow: lint → type-check → test on every pull request
+- [x] **13.4** `[devops]` Create a GitHub Actions CD workflow: build Docker image → push to ECR → deploy to App Runner on merge to `main`
+- [x] **13.5** `[devops]` Provision AWS resources for Phase 1: S3 bucket (JSON file + web assets), CloudFront distribution, App Runner service, ECR repository, Secrets Manager entries
+- [x] **13.6** `[devops]` Build the Expo web app (`expo export --platform web`) and deploy static assets to S3/CloudFront
+- [x] **13.7** `[devops]` Configure Route 53 + ACM for the placeholder domain (`termmapper.example.com`)
 
 ---
 
