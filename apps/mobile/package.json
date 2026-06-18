@@ -1,0 +1,32 @@
+{
+  "name": "@term-mapper/mobile",
+  "version": "0.1.0",
+  "private": true,
+  "main": "expo-router/entry",
+  "scripts": {
+    "start": "expo start",
+    "build": "expo export --platform web",
+    "typecheck": "tsc -p tsconfig.json --noEmit",
+    "test": "vitest run --passWithNoTests"
+  },
+  "dependencies": {
+    "@tanstack/react-query": "^5.64.2",
+    "@term-mapper/shared-types": "workspace:*",
+    "expo": "~52.0.26",
+    "expo-router": "~4.0.17",
+    "ky": "^1.7.4",
+    "nativewind": "^4.1.23",
+    "react": "18.3.1",
+    "react-dom": "18.3.1",
+    "react-hook-form": "^7.54.2",
+    "react-native": "0.76.6",
+    "react-native-web": "~0.19.13",
+    "zod": "^3.24.1",
+    "expo-secure-store": "~14.0.1"
+  },
+  "devDependencies": {
+    "@types/react": "~18.3.12",
+    "typescript": "^5.7.3",
+    "vitest": "^2.1.8"
+  }
+}

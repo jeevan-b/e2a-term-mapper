@@ -141,3 +141,11 @@ dist
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
 .vite/
+
+# Expo
+.expo/
+
+# Term Mapper build outputs
+apps/mobile/dist/
+apps/api/dist/
+packages/shared-types/dist/

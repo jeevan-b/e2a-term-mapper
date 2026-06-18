@@ -1,0 +1,3 @@
+import { describe, expect, it } from 'vitest';
+import { buildServer } from '../src/server.js';
+describe('public API', () => { it('searches terms', async () => { const app = await buildServer(); const res = await app.inject('/v1/search?q=dilemma'); expect(res.statusCode).toBe(200); expect(res.json().english_matches[0].term).toBe('dilemma'); await app.close(); }); it('returns term detail', async () => { const app = await buildServer(); const res = await app.inject('/v1/terms/en/dilemma'); expect(res.statusCode).toBe(200); expect(res.json().equivalents.length).toBeGreaterThan(1); await app.close(); }); });

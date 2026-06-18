@@ -1,0 +1,325 @@
+{
+  "version": "1.0",
+  "last_updated": "2026-03-04T00:00:00Z",
+  "english_terms": [
+    {
+      "id": "e001",
+      "term": "dilemma",
+      "slug": "dilemma"
+    },
+    {
+      "id": "e002",
+      "term": "hope",
+      "slug": "hope"
+    },
+    {
+      "id": "e003",
+      "term": "river",
+      "slug": "river"
+    },
+    {
+      "id": "e004",
+      "term": "language",
+      "slug": "language"
+    },
+    {
+      "id": "e005",
+      "term": "book",
+      "slug": "book"
+    },
+    {
+      "id": "e006",
+      "term": "school",
+      "slug": "school"
+    },
+    {
+      "id": "e007",
+      "term": "teacher",
+      "slug": "teacher"
+    },
+    {
+      "id": "e008",
+      "term": "student",
+      "slug": "student"
+    },
+    {
+      "id": "e009",
+      "term": "friend",
+      "slug": "friend"
+    },
+    {
+      "id": "e010",
+      "term": "village",
+      "slug": "village"
+    },
+    {
+      "id": "e011",
+      "term": "city",
+      "slug": "city"
+    },
+    {
+      "id": "e012",
+      "term": "water",
+      "slug": "water"
+    },
+    {
+      "id": "e013",
+      "term": "earth",
+      "slug": "earth"
+    },
+    {
+      "id": "e014",
+      "term": "sky",
+      "slug": "sky"
+    },
+    {
+      "id": "e015",
+      "term": "sun",
+      "slug": "sun"
+    },
+    {
+      "id": "e016",
+      "term": "moon",
+      "slug": "moon"
+    },
+    {
+      "id": "e017",
+      "term": "rice",
+      "slug": "rice"
+    },
+    {
+      "id": "e018",
+      "term": "music",
+      "slug": "music"
+    },
+    {
+      "id": "e019",
+      "term": "knowledge",
+      "slug": "knowledge"
+    },
+    {
+      "id": "e020",
+      "term": "freedom",
+      "slug": "freedom"
+    }
+  ],
+  "assamese_terms": [
+    {
+      "id": "a001",
+      "term": "উভয় সংকট",
+      "slug": "ubhay-sankat"
+    },
+    {
+      "id": "a002",
+      "term": "দোমোজা",
+      "slug": "domoja"
+    },
+    {
+      "id": "a003",
+      "term": "আশা",
+      "slug": "aasha"
+    },
+    {
+      "id": "a004",
+      "term": "নদী",
+      "slug": "nodi"
+    },
+    {
+      "id": "a005",
+      "term": "ভাষা",
+      "slug": "bhasha"
+    },
+    {
+      "id": "a006",
+      "term": "কিতাপ",
+      "slug": "kitap"
+    },
+    {
+      "id": "a007",
+      "term": "বিদ্যালয়",
+      "slug": "bidyalay"
+    },
+    {
+      "id": "a008",
+      "term": "শিক্ষক",
+      "slug": "shikshak"
+    },
+    {
+      "id": "a009",
+      "term": "ছাত্ৰ",
+      "slug": "chatra"
+    },
+    {
+      "id": "a010",
+      "term": "বন্ধু",
+      "slug": "bondhu"
+    },
+    {
+      "id": "a011",
+      "term": "গাঁও",
+      "slug": "gaon"
+    },
+    {
+      "id": "a012",
+      "term": "চহৰ",
+      "slug": "chahar"
+    },
+    {
+      "id": "a013",
+      "term": "পানী",
+      "slug": "pani"
+    },
+    {
+      "id": "a014",
+      "term": "পৃথিৱী",
+      "slug": "prithibi"
+    },
+    {
+      "id": "a015",
+      "term": "আকাশ",
+      "slug": "akash"
+    },
+    {
+      "id": "a016",
+      "term": "সূৰ্য",
+      "slug": "surya"
+    },
+    {
+      "id": "a017",
+      "term": "চন্দ্ৰ",
+      "slug": "chandra"
+    },
+    {
+      "id": "a018",
+      "term": "চাউল",
+      "slug": "chaul"
+    },
+    {
+      "id": "a019",
+      "term": "সঙ্গীত",
+      "slug": "sangit"
+    },
+    {
+      "id": "a020",
+      "term": "জ্ঞান",
+      "slug": "gyan"
+    },
+    {
+      "id": "a021",
+      "term": "স্বাধীনতা",
+      "slug": "swadhinata"
+    }
+  ],
+  "mappings": [
+    {
+      "id": "m001",
+      "english_id": "e001",
+      "assamese_id": "a001"
+    },
+    {
+      "id": "m002",
+      "english_id": "e001",
+      "assamese_id": "a002"
+    },
+    {
+      "id": "m003",
+      "english_id": "e002",
+      "assamese_id": "a003"
+    },
+    {
+      "id": "m004",
+      "english_id": "e003",
+      "assamese_id": "a004"
+    },
+    {
+      "id": "m005",
+      "english_id": "e004",
+      "assamese_id": "a005"
+    },
+    {
+      "id": "m006",
+      "english_id": "e005",
+      "assamese_id": "a006"
+    },
+    {
+      "id": "m007",
+      "english_id": "e006",
+      "assamese_id": "a007"
+    },
+    {
+      "id": "m008",
+      "english_id": "e007",
+      "assamese_id": "a008"
+    },
+    {
+      "id": "m009",
+      "english_id": "e008",
+      "assamese_id": "a009"
+    },
+    {
+      "id": "m010",
+      "english_id": "e009",
+      "assamese_id": "a010"
+    },
+    {
+      "id": "m011",
+      "english_id": "e010",
+      "assamese_id": "a011"
+    },
+    {
+      "id": "m012",
+      "english_id": "e011",
+      "assamese_id": "a012"
+    },
+    {
+      "id": "m013",
+      "english_id": "e012",
+      "assamese_id": "a013"
+    },
+    {
+      "id": "m014",
+      "english_id": "e013",
+      "assamese_id": "a014"
+    },
+    {
+      "id": "m015",
+      "english_id": "e014",
+      "assamese_id": "a015"
+    },
+    {
+      "id": "m016",
+      "english_id": "e015",
+      "assamese_id": "a016"
+    },
+    {
+      "id": "m017",
+      "english_id": "e016",
+      "assamese_id": "a017"
+    },
+    {
+      "id": "m018",
+      "english_id": "e017",
+      "assamese_id": "a018"
+    },
+    {
+      "id": "m019",
+      "english_id": "e018",
+      "assamese_id": "a019"
+    },
+    {
+      "id": "m020",
+      "english_id": "e019",
+      "assamese_id": "a020"
+    }
+  ],
+  "users": [
+    {
+      "id": "u001",
+      "email": "admin@example.com",
+      "password_hash": "$2b$10$rQ8Yl.D7yQAcGmOxFjOY9eObHtJM1JfYbUkdKXl12E65nBcqU9fyO",
+      "role": "admin",
+      "created_at": "2026-03-04T00:00:00Z",
+      "last_login_at": null
+    }
+  ]
+}
